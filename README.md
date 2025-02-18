@@ -33,4 +33,4 @@ I've worked with a variety of tools and technologies in the realm of data analys
 
 I’m always open to new connections and learning opportunities. Feel free to reach out!
 
-[LinkedIn](https://www.linkedin.com/in/saujanya-waikar/) | [Resume](https://drive.google.com/file/d/1vkhPPCv-GKH05U60636atl3TuSBaOWvu/view?usp=sharing)
+[LinkedIn](https://www.linkedin.com/in/saujanya-waikar/) | [Resume](https://drive.google.com/file/d/1mIVH9X5TDrbpvC5v-0VDzPA0yfEOlySz/view?usp=drive_link)
