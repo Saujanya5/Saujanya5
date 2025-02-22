@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Saujanya Waikar
-### 🚀 Curious Data & BI Analyst with 3.5 years of experience in fintech, marketing and retail domain.
+### 🚀 Data & BI Analyst with 3.5 years of experience in fintech, marketing and retail domain.
 
 
 I'm a passionate learner from the field of Mathematics, Engineering and Data Analysis, diving deep into data to uncover insights and make data-driven decisions.
