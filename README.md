@@ -11,7 +11,7 @@ I'm a passionate learner from the field of Mathematics, Engineering and Data Ana
 Currently exploring opportunities in Business Intelligence, Data Analytics and Product Analytics, with a keen interest in data product management and strategy. Actively refining my expertise in SQL, Power BI, Looker Studio, DBT, Redshift, GCP and Airflow to build scalable data solutions.
 
 <div align="right">
-  <img align="right" width="300" src="https://github.com/Saujanya5/Prometheus-1/blob/master/l17K4voh.gif" alt="Chess GIF">
+  <img align="right" width="270" hspace="80" src="https://github.com/Saujanya5/Prometheus-1/blob/master/l17K4voh.gif" alt="Chess GIF">
 </div>
 
 ### 💡 Data Analysis Projects
