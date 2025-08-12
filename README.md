@@ -1,4 +1,4 @@
-# Hi, I'm Saujanya Waikar
+# Hey, I'm Saujanya Waikar
 ###  Data & BI Analyst with 3.5 years of experience in Fintech, Marketing, Retail & E-commerce domain.
 
 
